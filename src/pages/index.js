@@ -133,8 +133,8 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">Openview Technologies Pvt. Ltd</h3>
-              <div className="subheading mb-3">IT Support Engineer</div>
+              <h3 className="mb-0">IT Support Engineer</h3>
+              <div className="subheading mb-3">Openview Technologies Pvt. Ltd</div>
               <p>
               <ul>
               <li>Prepare daily ‘DCL’ report for IT head office located at Mumbai.</li>
