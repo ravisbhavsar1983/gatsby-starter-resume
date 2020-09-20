@@ -54,14 +54,14 @@ const IndexPage = () => (
               <p>
               <ul>
               <li>Integrate application with other channel partner systems in Bank.</li>
-<li>Co-ordinate with Backend channel systems like HUB, core banking, GRS, File transmission, Chanel systems to help Testing team for required setup and environment availability. </li>
-<li>Application release deployment with co-ordination and planning./li</li>
-<li>Loging Bugs/issues in Jira, followup on the same towards fixing and code releases.</li>
-<li>Coordinate with vendor to resolve jira issues and deliveries.</li>
-<li>Bash script for small in-house work around tasks required for applications.</li>
-<li>ControlM v9 job setup and monitor.</li>
-<li>CICD pipeline setup in progress with help of Git, Jenkins and Ansible</li>
-<li>Handling basic DB related tasks with help help of DBA.</li>
+              <li>Co-ordinate with Backend channel systems like HUB, core banking, GRS, File transmission, Chanel systems to help Testing team for required setup and environment availability. </li>
+              <li>Application release deployment with co-ordination and planning./li</li>
+              <li>Loging Bugs/issues in Jira, followup on the same towards fixing and code releases.</li>
+              <li>Coordinate with vendor to resolve jira issues and deliveries.</li>
+              <li>Bash script for small in-house work around tasks required for applications.</li>
+              <li>ControlM v9 job setup and monitor.</li>
+              <li>CICD pipeline setup in progress with help of Git, Jenkins and Ansible</li>
+              <li>Handling basic DB related tasks with help help of DBA.</li>
               </ul>
               </p>
             </div>
@@ -72,14 +72,18 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">LTI (L & T Infotech Ltd.)</h3>
-              <div className="subheading mb-3">WAS & WPS support Offshore</div>
+              <h3 className="mb-0">WAS & WPS support Offshore</h3>
+              <div className="subheading mb-3">LTI (L & T Infotech Ltd.)</div>
               <p>
-                Capitalize on low hanging fruit to identify a ballpark value
-                added activity to beta test. Override the digital divide with
-                additional clickthroughs from DevOps. Nanotechnology immersion
-                along the information highway will close the loop on focusing
-                solely on the bottom line.
+                <ul>
+              <li>Providing administrative support for IBM Websphere Application server & IBM WebSphere Portal Server, IBM HTTP Server </li>
+              <li>Production changes </li>
+              <li>Handling Incidents Tickets for housekeeping, application issues, access issues, performance issues</li>
+              <li>Fix pack upgrades, hardening etc</li>
+              <li>SSL certificate updates for WebSphere environments</li>
+              <li>Automating restarts of application servers</li>
+              <li>Installation and configuration of WebSphere cell using Scripting framework.</li>
+              </ul>
               </p>
             </div>
             <div className="resume-date text-md-right">
@@ -89,36 +93,74 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Junior Web Designer</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">WAS support Offshore team</h3>
+              <div className="subheading mb-3">IBM India Pvt. Ltd., Bangalore </div>
               <p>
-                Podcasting operational change management inside of workflows to
-                establish a framework. Taking seamless key performance
-                indicators offline to maximise the long tail. Keeping your eye
-                on the ball while performing a deep dive on the start-up
-                mentality to derive convergence on cross-platform integration.
+                <ul>
+              <li>Providing administrative support for IBM Websphere Application server and IBM HTTP Server as and when informed by Customer. </li>
+              <li>Support includes providing assistance for production changes, incidents troubleshooting, fix pack upgrades, housekeeping work.</li>
+              </ul>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">July 2010 - December 2011</span>
+              <span className="text-primary">Dec  2013 – Sep 2014</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">Web Design Intern</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Websphere Admin </h3>
+              <div className="subheading mb-3">Wipro Infotech Ltd</div>
               <p>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed
-                base benefits. Dramatically visualize customer directed
-                convergence without revolutionary ROI.
+              <ul>
+              <li>Work on assigned tickets for configuration changes in dmgr console, restarting the services, deployment of application, ldap users managements, setting up security for websphere, analysis of JVM  logs, submit, manage, monitor PMR, gc related issues, analysis of heap dumps, analysis of thread dump, analysis of JVM performance with TPM, configuration backup, updating fixpacks, production changes, IHS related issues, httpd.conf and plugin-cfg.xml file changes, IHS access and error log analysis, IHS and was certificate password update, trustore update in .kdb and .jks certificate etc.</li>
+              <li>Work on assigned incidents for production boxes alerts of high CPU utilization, IHS request monitoring, disk space full issues, application slow response or 500 errors, etc.</li>
+              <li>Prepare application availability checklist as per schedule and share the same with customer</li>
+              <li>Work on documentation for customer specific activity.</li>
+              <li>Provide service improvement plans.</li>
+              <h5><u>Added responsibilities at Wipro Technologies Pune</u></h5>
+              <li>Preparing Shift roster for Team Members</li>
+              <li>Providing MIS reports for managers related with effort hours calculation.</li>
+              <li>Provide Man hours efforts calculation for the team to the Management.</li>
+              </ul>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">September 2008 - June 2010</span>
+              <span className="text-primary">Feb 2008 – Dec 2013</span>
             </div>
           </div>
+
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+            <div className="resume-content">
+              <h3 className="mb-0">Openview Technologies Pvt. Ltd</h3>
+              <div className="subheading mb-3">IT Support Engineer</div>
+              <p>
+              <ul>
+              <li>Prepare daily ‘DCL’ report for IT head office located at Mumbai.</li>
+              <li>Maintain & monitor Lease Line connectivity.</li>
+              <li>Administration of Windows 2K server.</li>
+              <li>Troubleshooting of Hardware, Network, Printer, Switch based problems.</li>
+              <li>Maintain, monitor & update SAV Server & Clients.</li>
+              <li>Monitor & install Microsoft update for OS.</li>
+              <li>Troubleshoot Outlook related problems.</li>
+              <li>Daily backup of File Servers & Mail Serves through Symantech Veritas 10D.</li>
+              <li>Monitor & Manage Mdemoan Mail Exchange server.</li>
+              <li>Maintain Inventory of all IT Material.</li>
+              <li>Communicate with MTNL, HP, HCL for Legal requirements.</li>
+              <li>Co-ordinate with Head Office IT Department.</li>
+              <li>Handle issues related with SAP Front End 7.</li>              
+              </ul>
+              </p>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">June 2007 –February 2008</span>
+            </div>
+          </div>
+
+
+
+
         </div>
       </section>
 
@@ -130,29 +172,10 @@ const IndexPage = () => (
       >
         <div className="w-100">
           <h2 className="mb-5">Education</h2>
-
-          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
-              <div className="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
-            </div>
-            <div className="resume-date text-md-right">
-              <span className="text-primary">August 2006 - May 2010</span>
-            </div>
-          </div>
-
-          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
-            <div className="resume-content">
-              <h3 className="mb-0">James Buchanan High School</h3>
-              <div className="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
-            </div>
-            <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
-            </div>
-          </div>
+          <li><b>M. Com</b> – From MKCL Pune, Pune University in 2009-2010.</li>
+          <li><b>B. Com.</b> - From B.Y.K. College, Nasik, from Pune University, Secured 58% in 2002-03.</li>
+          <li><b>H.S.C</b> –  From B.Y.K. College, Nasik, from Pune University, Secured 57% in 1999-2000.</li>
+          <li><b>S.S.C</b> - From T.J. Chuvan Bitco High School, Nasik, from Maharashtra 57% 1997-98.</li>
         </div>
       </section>
 
@@ -168,63 +191,17 @@ const IndexPage = () => (
           <div className="subheading mb-3">
             Programming Languages &amp; Tools
           </div>
-          <ul className="list-inline dev-icons">
-            <li className="list-inline-item">
-              <i className="fab fa-html5"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-css3-alt"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-js-square"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-angular"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-react"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-node-js"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-sass"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-less"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-wordpress"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-gulp"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-grunt"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-npm"></i>
-            </li>
-          </ul>
+          <ul>
 
-          <div className="subheading mb-3">Workflow</div>
-          <ul className="fa-ul mb-0">
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Cross Functional Teams
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum
-            </li>
+
+          <li><b>Platform :</b> 	Aix 6.1, Red Hat Ent Linux 5, Win server.</li>
+          <li><b>Languages:</b>	Bash Unix scripting & Basic Python  Scripting</li>
+          <li><b>Applications:</b>	IBM Websphere Application Server 6.1, 7 & 8 IBM HTTP Server 6.1, 7 & 8.5 Tomcat Server 7, Weblogic 10.3, 12c. Apache Web Server 2.2, MQ 7, IIS-6, IBM Update installer, IBM Installation Manager.</li>
+          <li><b>Tools:</b>		Putty, xManager, WinSCP, wsadmin, bash, RDP, BMC Remedy 7.5, HP Sitescope Monitoring, Dell Foglight Monitoring, LDAP Admin,  ADExplorer.</li>
+          <li><b>DevOps Tools:</b>	Jenkins, GitHub, Ansible, Basic Docker and Kubernetes  </li>
+          <li><b>Known Tech:</b>	Apache Web Server, Apache Application Server,  Websphere </li>
+          <li><b>Basic knowledge :</b>		Edge Components, IBM Installation Manager.</li>
+	
           </ul>
         </div>
       </section>
@@ -233,22 +210,20 @@ const IndexPage = () => (
 
       <section
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
-        id="interests"
+        id="Certifications"
       >
         <div className="w-100">
-          <h2 className="mb-5">Interests</h2>
-          <p>
-            Apart from being a web developer, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
-          </p>
-          <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
-            movies and television shows, I am an aspiring chef, and I spend a
-            large amount of my free time exploring the latest technology
-            advancements in the front-end web development world.
-          </p>
+          <h2 className="mb-5">Certifications</h2>
+          <ul>
+          <li>DevOps Training and Certification completed from Intellipaat</li>
+            <li>IBM Certified Specialist for AIX Systems Support AIX 5.3L</li>
+            <li>IBM Websphere Appliation Server Certified WAS 6.1 & 7.0</li>
+            <li>IBM Websphere Appliation Server Certified WAS ND 8.5.5</li>
+            <li>RHEL 5 Certified</li>
+            <li>ITIL Foundation V3 Certification</li>
+
+          </ul>  
+
         </div>
       </section>
 
@@ -258,42 +233,7 @@ const IndexPage = () => (
         className="resume-section p-3 p-lg-5 d-flex align-items-center"
         id="awards"
       >
-        <div className="w-100">
-          <h2 className="mb-5">Awards &amp; Certifications</h2>
-          <ul className="fa-ul mb-0">
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2009
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008
-              (UI Design Category)
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2008
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005
-            </li>
-          </ul>
-        </div>
+
       </section>
     </div>
   </Layout>
